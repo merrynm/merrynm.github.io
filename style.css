@@ -14,8 +14,11 @@
   
 
 .img-responsive {
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
     display: block !important;
-    max-width: 100% !important;
+    max-width: 40% !important;
     height: auto !important;
 }
 
@@ -29,5 +32,6 @@ p {
 }
 
 .top-buffer { margin-top: 20px; }
+
 
   
