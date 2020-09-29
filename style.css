@@ -16,6 +16,7 @@
 
 h1 {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 p {
@@ -23,14 +24,17 @@ p {
     text-align: center;
 }
 
-.top-buffer { margin-top: 20px; }
+.top-buffer { 
+    margin-top: 25px; 
+    margin-bottom: 25px;
+}
 
 .img-responsive img {
     margin: auto;    
     display: block;
     text-align: center;
     display: block !important;
-    max-width: 50% !important;
+    max-width: 57% !important;
     height: auto !important;
 }
 
