@@ -74,4 +74,13 @@ nav {
     height: auto !important;
     padding-top: 15px;
 }
+
+.icon-responsive img {
+    margin: auto;    
+    display: block;
+    text-align: center;
+    display: block !important;
+    max-width: 20% !important;
+    height: auto !important;
+}
   
