@@ -13,14 +13,6 @@
   }
   
 
-.img-responsive {
-    margin-top: 10px;
-    margin-right: 5px;
-    margin-left: 5px;
-    display: block !important;
-    max-width: 40% !important;
-    height: auto !important;
-}
 
 h1 {
     text-align: center;
@@ -33,5 +25,17 @@ p {
 
 .top-buffer { margin-top: 20px; }
 
+.img-responsive img {
+    margin: auto;    
+    display: block;
+    text-align: center;
+    display: block !important;
+    max-width: 40% !important;
+    height: auto !important;
+}
+
+nav {
+    margin-bottom: 10px;
+}
 
   
