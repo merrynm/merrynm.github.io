@@ -93,17 +93,17 @@ video {
   }
 
   .tree-links:link {
-    color: rgb(101, 102, 101);
+    color: rrgb(50, 69, 121);
     background-color: transparent;
     text-decoration: none;
   }
   .tree-links:visited {
-    color: rgb(101, 102, 101);
+    color:  rgb(50, 69, 211);
     background-color: transparent;
     text-decoration: none;
   }
   .tree-links:hover {
-    color: rgb(56, 58, 56);
+    color: rgb(129, 128, 160);
     background-color: transparent;
     text-decoration: none;
   }
