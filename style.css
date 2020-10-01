@@ -85,7 +85,26 @@ nav {
 }
 
 video {
-    max-height: 100%;
-    max-width: 100%;
+    display: block !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: auto;   
+    display: flex;
+  }
+
+  .tree-links:link {
+    color: rgb(101, 102, 101);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .tree-links:visited {
+    color: rgb(101, 102, 101);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .tree-links:hover {
+    color: rgb(56, 58, 56);
+    background-color: transparent;
+    text-decoration: none;
   }
   
