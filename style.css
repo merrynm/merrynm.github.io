@@ -83,4 +83,9 @@ nav {
     max-width: 20% !important;
     height: auto !important;
 }
+
+video {
+    max-height: 100%;
+    max-width: 100%;
+  }
   
